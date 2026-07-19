@@ -1,2 +1,2 @@
-![](https://raw.githubusercontent.com/HamzaSyrage/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/HamzaSyrage/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/HamzaSyrage/HamzaSyrage/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/HamzaSyrage/HamzaSyrage/blob/generated/languages.svg#gh-dark-mode-only)
