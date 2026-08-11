@@ -134,22 +134,22 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #f34b7d; 
-  width: 45.778%;
+  width: 45.770%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
-  width: 33.724%;
+  width: 33.718%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 7.711%;
+  width: 7.710%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 4.420%;
+  width: 4.419%;
 " class="progress-item"></span><span style="
   background-color: #355570; 
-  width: 2.170%;
+  width: 2.179%;
 " class="progress-item"></span><span style="
   background-color: #00B4AB; 
-  width: 1.305%;
+  width: 1.304%;
 " class="progress-item"></span><span style="
   background-color: #4F5D95; 
   width: 0.767%;
@@ -185,7 +185,7 @@ div.ellipsis {
   width: 0.124%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 0.065%;
+  width: 0.074%;
 " class="progress-item"></span><span style="
   background-color: #178600; 
   width: 0.046%;
@@ -218,7 +218,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">C++</span>
-  <span class="percent">45.78%</span>
+  <span class="percent">45.77%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -282,7 +282,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">GDScript</span>
-  <span class="percent">2.17%</span>
+  <span class="percent">2.18%</span>
 </li>
 <li style="animation-delay: 900ms;">
   <svg 
